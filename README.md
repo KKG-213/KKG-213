@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/265464317/original/7689ab2d6d79f068be147c0fba246944feeea1f2/develop-nodejs-reactjs-nextjs-web-app-or-graphql-api.png)">
 <h1 align="center">Hi 👋, I'm Koushik Kumar</h1>
 <img align="right" alt="Coding" width="400" src="https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png">
 
