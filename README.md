@@ -1,8 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/265464317/original/7689ab2d6d79f068be147c0fba246944feeea1f2/develop-nodejs-reactjs-nextjs-web-app-or-graphql-api.png)]
-
+![MasterHead](https://raw.githubusercontent.com/anismomin/anismomin/master/fullstack.jpg)
 
 <h1 align="center">Hi 👋, I'm Koushik Kumar</h1>
-<img align="right" alt="Coding" width="400" src="https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">I am full Stack Developer And Competitive Programmer. Solved &750 problems on Leetcode|| GFG || Coding Ninja || Codeforces</h3>
 
