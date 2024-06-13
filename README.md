@@ -1,6 +1,6 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 <h1 align="center">Hi 👋, I'm Koushik Kumar</h1>
-(img align="right" alt="Coding" width="400" src="https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png")
+img align="right" alt="Coding" width="400" src="https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png"
 
 <h3 align="center">I am full Stack Developer And Competitive Programmer. Solved &750 problems on Leetcode|| GFG || Coding Ninja || Codeforces</h3>
 
